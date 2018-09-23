@@ -3,4 +3,4 @@
 
 <img src="https://i.imgur.com/QPYVlMU.gif" width="50%">
 
-`Type nothing to fast print > slow`
+`Type nothing to fast print > **slow**`
