@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
 	string logo;
-	ifstream titleart ("title.txt");
+	ifstream titleart ("art/title.txt");
 	if(titleart.is_open()) {
 		while (getline(titleart, logo)) {
 			cout << logo << '\n';
