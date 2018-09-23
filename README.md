@@ -1,2 +1,3 @@
 # YAG
-A small program for making limited text art.
+###### *A small program for making limited text art.*
+
