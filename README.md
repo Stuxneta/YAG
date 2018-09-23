@@ -5,3 +5,4 @@
 ```
 Type 'slow' for it to print slowly
 Type nothing to fast print > **slow**
+```
