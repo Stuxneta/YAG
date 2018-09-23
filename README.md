@@ -3,6 +3,7 @@
 
 <img src="https://i.imgur.com/QPYVlMU.gif" width="50%">
 ```
-Type 'slow' for it to print slowly
-Type nothing to fast print > slow
+git status
+git add
+git commit
 ```
