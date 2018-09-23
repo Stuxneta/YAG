@@ -7,11 +7,11 @@
 using namespace std;
 
 int main() {
-	string line;
+	string logo;
 	ifstream titleart ("title.txt");
 	if(titleart.is_open()) {
-		while (getline(titleart, line)) {
-			cout << line << '\n';
+		while (getline(titleart, logo)) {
+			cout << logo << '\n';
 		}
 		titleart.close();
 	}
