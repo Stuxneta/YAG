@@ -2,9 +2,5 @@
 ###### *A small program for making limited text art.*
 
 <img src="https://i.imgur.com/QPYVlMU.gif" width="50%">
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+
+`Type nothing to fast print > slow`
