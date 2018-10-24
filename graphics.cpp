@@ -10,11 +10,13 @@
 
 using namespace std;
 
-int main() {
-  title();
-  cout << "\nType 'slow' for it to print slowly\nType nothing to fast print > ";
-  inpu();
-  message();
-  slow();
-  return 0;
+void title() {
+  string logo;
+	ifstream titleart ("art/title.txt");
+	if(titleart.is_open()) {
+		while (getline(titleart, logo)) {
+			cout << logo << '\n';
+		}
+		titleart.close();
+	}
 }
