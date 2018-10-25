@@ -24,7 +24,7 @@ void message() {
 
 void slow() {
   if (c == "slow") {
-      for( ; ; ) {
+      for(;;) {
         cout << " " << mess << endl;
         sleep(1);
         cout << "  " << mess << endl;
